@@ -1,4 +1,3 @@
 Git is a version control system.
 Git is free software.
-Git dev test.
-add to dev
+just a dev test
